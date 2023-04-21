@@ -1,5 +1,5 @@
-# AI_project(Done by Tamogh, Vikram,Jay and Ayun)
-# INTRODUCTION
+# Theft detection visualization
+# Introduction
 Theft has always been a serious worry in society, resulting in enormous property loss
 and a sense of insecurity. To address this issue, numerous measures have been
 implemented, including the hiring of security professionals, the installation of
@@ -18,3 +18,9 @@ prone to theft as another dot in the matrix. The burglars path to the object tha
 protected can be predicted based on the obstacles present in the path using multiple
 algorithms ( bfs,dijkstra, and a* etc). We observe and contrast his actions with those of
 other algorithms to determine which algorithm gives us the best outcome
+# Prequisites:
+1.You can run the python codes in any ide but we recommend to do so in Visual studio code.
+2.Create a virtual environment to enable the proper functioning of the libraries.
+# Algorithm Working:
+# BFS approach:
+
