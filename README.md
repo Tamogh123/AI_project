@@ -19,7 +19,8 @@ protected can be predicted based on the obstacles present in the path using mult
 algorithms ( bfs,dijkstra, and a* etc). We observe and contrast his actions with those of
 other algorithms to determine which algorithm gives us the best outcome
 # Prequisites:
-1.You can run the python codes in any ide but we recommend to do so in Visual studio code.
+1.You can run the python codes in any ide but we recommend to do so in Visual studio code. 
+#
 2.Create a virtual environment to enable the proper functioning of the libraries.
 # Algorithm Working:
 # BFS approach:
