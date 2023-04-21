@@ -1,5 +1,5 @@
 # AI_project(Done by Tamogh, Vikram,Jay and Ayun)
-INTRODUCTION
+#INTRODUCTION
 Theft has always been a serious worry in society, resulting in enormous property loss
 and a sense of insecurity. To address this issue, numerous measures have been
 implemented, including the hiring of security professionals, the installation of
